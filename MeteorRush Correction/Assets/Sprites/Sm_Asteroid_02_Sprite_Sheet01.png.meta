@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: d42ad4e6d6cab4219aa86c690b6782a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8853733743559735972
+    second: Sm_Asteroid_02_Sprite_Sheet01_0
+  - first:
+      213: -8690762886979905599
+    second: Sm_Asteroid_02_Sprite_Sheet01_1
+  - first:
+      213: -5507075855317405779
+    second: Sm_Asteroid_02_Sprite_Sheet01_2
+  - first:
+      213: 6914872684686288741
+    second: Sm_Asteroid_02_Sprite_Sheet01_3
+  - first:
+      213: 2453988717441958182
+    second: Sm_Asteroid_02_Sprite_Sheet01_4
+  - first:
+      213: 1786727135759960758
+    second: Sm_Asteroid_02_Sprite_Sheet01_5
+  - first:
+      213: 1703415463193093556
+    second: Sm_Asteroid_02_Sprite_Sheet01_6
+  - first:
+      213: 4525729828229905653
+    second: Sm_Asteroid_02_Sprite_Sheet01_7
+  - first:
+      213: 482892218219236993
+    second: Sm_Asteroid_02_Sprite_Sheet01_8
+  - first:
+      213: 7464737524024822081
+    second: Sm_Asteroid_02_Sprite_Sheet01_9
+  - first:
+      213: 7032813726835031692
+    second: Sm_Asteroid_02_Sprite_Sheet01_10
+  - first:
+      213: 8380131335030314904
+    second: Sm_Asteroid_02_Sprite_Sheet01_11
+  - first:
+      213: 5396034597306649226
+    second: Sm_Asteroid_02_Sprite_Sheet01_12
+  - first:
+      213: -7391755142150135997
+    second: Sm_Asteroid_02_Sprite_Sheet01_13
+  - first:
+      213: 512448641929188708
+    second: Sm_Asteroid_02_Sprite_Sheet01_14
+  - first:
+      213: -4664174936522102721
+    second: Sm_Asteroid_02_Sprite_Sheet01_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1674
+        width: 373
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c558b3fb118312580800000000000000
+      internalID: -8853733743559735972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1678
+        width: 373
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71a6e2335346780800000000000000
+      internalID: -8690762886979905599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_2
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1674
+        width: 348
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafeca4ffafe293b0800000000000000
+      internalID: -5507075855317405779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_3
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1522
+        width: 518
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56727c5f11096ff50800000000000000
+      internalID: 6914872684686288741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1090
+        width: 530
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621c1f99cb15e0220800000000000000
+      internalID: 2453988717441958182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1168
+        width: 347
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba068d0ddabbc810800000000000000
+      internalID: 1786727135759960758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_6
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1170
+        width: 367
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b52884b65fb3a710800000000000000
+      internalID: 1703415463193093556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_7
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1165
+        width: 367
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc7809ec4f9ece30800000000000000
+      internalID: 4525729828229905653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 699
+        width: 347
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e02cbf9e393b600800000000000000
+      internalID: 482892218219236993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 695
+        width: 367
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149470d6a33189760800000000000000
+      internalID: 7464737524024822081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_10
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 700
+        width: 357
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e3e77b2d2999160800000000000000
+      internalID: 7032813726835031692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_11
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 576
+        width: 531
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8971a93ac053c4470800000000000000
+      internalID: 8380131335030314904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 116
+        width: 547
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4e2870e092ea40800000000000000
+      internalID: 5396034597306649226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 150
+        width: 352
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f59758cd53b6990800000000000000
+      internalID: -7391755142150135997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_14
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 147
+        width: 352
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46512d323559c1700800000000000000
+      internalID: 512448641929188708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sm_Asteroid_02_Sprite_Sheet01_15
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 148
+        width: 367
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e15a6b95854fb0800000000000000
+      internalID: -4664174936522102721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
